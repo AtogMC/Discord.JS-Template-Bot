@@ -1,0 +1,16 @@
+{
+  "name": "Discord_Bot_Template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security"
+  }
+}
