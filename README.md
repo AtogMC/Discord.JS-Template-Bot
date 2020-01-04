@@ -3,15 +3,21 @@
 
 ------------
 
-## Commands
-### help
-##### This command is for help (You have to edit it)
-### avatar
-#### View a user or your avatar image
+### Commands
+```
+• -bonzi <Text> - Bonzi says?
+• -avatar [Mention] - View a user avatar.
+• -help - View the bot help.
+```
+```
+[] = Optional
+<> = Required
+```
 Go adding new functions
 
 ------------
-## How to install?
+### How to install?
+```
 * Open the node.js command prompt
 * Redirect to bot directory
 * Execute the command: __npm i__ to install all required modules
@@ -19,8 +25,17 @@ Go adding new functions
 * Go to the __index.js__ file and paste your token in __client.login('?');__
 * Execute the bot with: __node src/index__
 * DONE! :D
+```
 ------------
-#### Contact me on Discord!
+### Packages
+```
+• discord.js@11.5.1
+• fs@0.0.1-security
+• jimp@0.9.3
+• ms@2.1.2
+```
+------------
+### Contact me on Discord!
 Tag: __Atog#1410__ 
 ID: __647594401203224586__ 
 ![Atog Discord Logo](https://cdn.discordapp.com/avatars/647594401203224586/c40ce6aa71ca924049f0e1b74c77b7fc.png?size=2048)
