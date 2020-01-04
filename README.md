@@ -1,5 +1,6 @@
 [discord-invite]: https://discord.gg/pka6Kn2
 [discord-shield]: https://img.shields.io/discord/595711627152719924?color=blue&label=Discord&logo=Discord&logoColor=white
+[ ![discord-shield][] ][discord-invite]
 # Discord.JS Template Bot
 #### This is the first code I do about __Discord.js__
 
