@@ -6,7 +6,8 @@
 ## Commands
 ### help
 ##### This command is for help (You have to edit it)
-
+### avatar
+#### View a user or your avatar image
 Go adding new functions
 
 ------------
