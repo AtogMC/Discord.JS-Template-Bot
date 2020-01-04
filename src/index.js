@@ -11,7 +11,7 @@ function setupCommands() {
         fs.readdir(`${__dirname}/commands`, (err, commands) => {
             if(err)return reject(err);
             commands.forEach(command => {
-                if(!(command.split(".").pop() !== "js")) return;
+                if(!(command.split(".").pop() == "js")) return;
                 let comando = require(`${__dirname}/commands/${command}`);
                 client.commands.set(comando.help.name, require(`${__dirname}/commands/${command}`));
                 console.log("[INFO] Registrered "+comando.help.name);
@@ -40,7 +40,7 @@ client.on("message", (msg) => {
     let command = msg.content.split(" ")[0].slice(prefix.length);
     let args = msg.content.split(" ").slice(1);
 
-    if(!client.commands.has(command) || !client.aliases.has(command))return;
+    if(!client.commands.has(command) && !client.aliases.has(command))return msg.channel.send("Command not found");
     let comando = client.commands.get(command) || client.aliases.get(command);
 
     comando.run(client, msg, args);
