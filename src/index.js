@@ -56,7 +56,7 @@ client.on("message", (msg) => {
     console.log(msg.author.tag+" Executed the command: "+command)
 });
 
-client.login('NjYyOTg0ODk4MTg4OTM1MTc4.XhB8Rg.6aNoMiWbYd_nfwZiHzR5ZVh1UtE');
+client.login('?');
 
 module.exports = {
     client: client,
