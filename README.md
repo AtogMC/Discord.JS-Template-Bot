@@ -18,6 +18,9 @@ Go adding new functions
 * Go to the __index.js__ file and paste your token in __client.login('?');__
 * Execute the bot with: __node src/index__
 * DONE! :D
-
+------------
+#### Contact me on Discord!
+> Tag: __Atog#1410__
+> ID: __647594401203224586__
 ![Atog Discord Logo](https://cdn.discordapp.com/avatars/647594401203224586/c40ce6aa71ca924049f0e1b74c77b7fc.png?size=2048)
   
