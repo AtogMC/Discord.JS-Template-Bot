@@ -23,10 +23,10 @@ Go adding new functions
 ```
 * Open the node.js command prompt
 * Redirect to bot directory
-* Execute the command: __npm i__ to install all required modules
+* Execute the command: "npm i" to install all required modules
 * Wait for the modules to be installed
-* Go to the __index.js__ file and paste your token in __client.login('?');__
-* Execute the bot with: __node src/index__
+* Go to the __index.js__ file and paste your token in "client.login('?');"
+* Execute the bot with: node "src/index"
 * DONE! :D
 ```
 ------------
