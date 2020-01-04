@@ -1,3 +1,5 @@
+[discord-invite]: https://discord.gg/pka6Kn2
+[discord-shield]: https://img.shields.io/discord/595711627152719924?color=blue&label=Discord&logo=Discord&logoColor=white
 # Discord.JS Template Bot
 #### This is the first code I do about __Discord.js__
 
@@ -36,8 +38,7 @@ Go adding new functions
 ```
 ------------
 ### Contact me on Discord!
-[discord-invite]: https://discord.gg/pka6Kn2
-[discord-shield]: https://img.shields.io/discord/595711627152719924?color=blue&label=Discord&logo=Discord&logoColor=white
+__Atog#1410__
 
 #### Happy year!
 ![Atog Discord Logo](https://cdn.discordapp.com/avatars/647594401203224586/c40ce6aa71ca924049f0e1b74c77b7fc.png?size=2048)
