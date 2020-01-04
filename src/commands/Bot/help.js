@@ -27,7 +27,7 @@ module.exports = class Command extends require('../CommandHandler') {
                 let embed = new Discord.RichEmbed()
                 .setColor('RANDOM')
                 .setTitle("This is a **"+client.user.username+"**'s Help")
-                .addField("__Commands:__", "**· `avatar` - View your discord avatar**", true)
+                .addField("__Commands:__", "**· `avatar` - View your discord avatar\n· `bonzi` - Make a text with a bonzi says**", true)
                 .setFooter(client.user.tag);
                 msg.channel.send(embed);
             }
