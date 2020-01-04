@@ -20,7 +20,7 @@ Go adding new functions
 * DONE! :D
 ------------
 #### Contact me on Discord!
-> Tag: __Atog#1410__
-> ID: __647594401203224586__
+Tag: __Atog#1410__ 
+ID: __647594401203224586__ 
 ![Atog Discord Logo](https://cdn.discordapp.com/avatars/647594401203224586/c40ce6aa71ca924049f0e1b74c77b7fc.png?size=2048)
   
