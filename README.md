@@ -13,11 +13,12 @@
 • -avatar [Mention] - View a user avatar.
 • -help - View the bot help.
 ```
+------------
 ```
 [] = Optional
 <> = Required
 ```
-Go adding new functions
+I go adding new functions
 
 ------------
 ### How to install?
@@ -40,7 +41,7 @@ Go adding new functions
 ```
 ------------
 ### Contact me on Discord!
-__Atog#1410__
+__Atog.#0001__
 
 #### Happy year!
 [![Atog Discord Logo](https://cdn.discordapp.com/avatars/647594401203224586/c40ce6aa71ca924049f0e1b74c77b7fc.png?size=2048)](https://discord.gg/pka6Kn2)
